@@ -1,0 +1,5 @@
+{
+  "name": "GenStudio Pro - VEO/Imagen",
+  "description": "A professional-grade image generation suite leveraging Google's Gemini 3 Pro Image models (Imagen 3) and Veo capabilities. Features microstock-optimization, 4K resolution support, and style presets.",
+  "requestFramePermissions": []
+}
